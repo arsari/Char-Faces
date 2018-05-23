@@ -15,7 +15,7 @@ public class CharFaces {
         // create scanner for input
         Scanner scnr = new Scanner(System.in);
 
-        // bariable declaration / initialize
+        // variable declaration / initialize
         char userChar = '-';
 
         while (userChar != 'q') {
